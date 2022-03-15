@@ -1,0 +1,75 @@
+public StudentsDTO()
+{
+this.rollNumber="";
+this.name="";
+this.courseCode=0;
+this.dateOfBirth=null;
+this.gender=' ';
+this.isIndian=false;
+this.familyIncome=null;
+this.aadharCardNumber="";
+}
+public void setRollNumber(java.lang.String rollNumber)
+{
+this.rollNumber=rollNumber;
+}
+public java.lang.String getRollNumber()
+{
+return this.rollNumber;
+}
+public void setName(java.lang.String name)
+{
+this.name=name;
+}
+public java.lang.String getName()
+{
+return this.name;
+}
+public void setCourseCode(int courseCode)
+{
+this.courseCode=courseCode;
+}
+public int getCourseCode()
+{
+return this.courseCode;
+}
+public void setDateOfBirth(java.util.Date dateOfBirth)
+{
+this.dateOfBirth=dateOfBirth;
+}
+public java.util.Date getDateOfBirth()
+{
+return this.dateOfBirth;
+}
+public void setGender(char gender)
+{
+this.gender=gender;
+}
+public char getGender()
+{
+return this.gender;
+}
+public void setIsIndian(boolean isIndian)
+{
+this.isIndian=isIndian;
+}
+public boolean getIsIndian()
+{
+return this.isIndian;
+}
+public void setFamilyIncome(java.math.BigDecimal familyIncome)
+{
+this.familyIncome=familyIncome;
+}
+public java.math.BigDecimal getFamilyIncome()
+{
+return this.familyIncome;
+}
+public void setAadharCardNumber(java.lang.String aadharCardNumber)
+{
+this.aadharCardNumber=aadharCardNumber;
+}
+public java.lang.String getAadharCardNumber()
+{
+return this.aadharCardNumber;
+}

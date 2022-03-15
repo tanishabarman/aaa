@@ -1,0 +1,18 @@
+com/thinking/machines/hr/bl/interfaces/managers/StudentsManagerInterface.java
+ com.thinking.machines.hr.bl.interfaces.managers.StudentsManagerInterface
+com/thinking/machines/hr/bl/exceptions/BLException.java
+ com.thinking.machines.hr.bl.exceptions.BLException
+com/thinking/machines/hr/bl/interfaces/pojo/StudentsInterface.java
+ com.thinking.machines.hr.bl.interfaces.pojo.StudentsInterface
+com/thinking/machines/hr/bl/interfaces/pojo/CoursesInterface.java
+ com.thinking.machines.hr.bl.interfaces.pojo.CoursesInterface
+com/thinking/machines/hr/bl/pojo/Students.java
+ com.thinking.machines.hr.bl.pojo.Students
+com/thinking/machines/hr/bl/interfaces/managers/CoursesManagerInterface.java
+ com.thinking.machines.hr.bl.interfaces.managers.CoursesManagerInterface
+com/thinking/machines/hr/bl/pojo/Courses.java
+ com.thinking.machines.hr.bl.pojo.Courses
+com/thinking/machines/hr/bl/managers/StudentsManager.java
+ com.thinking.machines.hr.bl.managers.StudentsManager
+com/thinking/machines/hr/bl/managers/CoursesManager.java
+ com.thinking.machines.hr.bl.managers.CoursesManager
